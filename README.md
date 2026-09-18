@@ -1,7 +1,7 @@
 # Smart Utility Toolkit
 
 **Course:** Web Dev III (Node.js & Express Backend)
-**Unit:** Unit–1
+**Unit:** (Unit–1)
 **Lab Assignment 1** — Node.js core modules (`process`, `http`, `fs`, `crypto`)
 
 A collection of small CLI/server utilities built using only Node.js **built-in
