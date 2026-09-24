@@ -1,5 +1,5 @@
-// Navraj Amgai (2501730493)
-// B.Tech CSE AI/ML (G)
+// Navraj Amgai
+// B.Tech CSE AI/ML
 
 const fs = require("fs");
 const http = require("http");
